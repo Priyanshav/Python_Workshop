@@ -1,5 +1,5 @@
 n = int(input("Enter a number: "))
-t = n  // this is quite neccessary
+t = n  # this is quite neccessary
 s = 0    
 p = str(n)
 x = len(p)
