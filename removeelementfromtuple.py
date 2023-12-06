@@ -1,0 +1,6 @@
+t = tuple(map(int,input("Enter elements: ").split()))
+ind = int(input("Enter index no.: "))
+p = list(t)
+print(p.pop(ind))
+print(tuple(p))
+# print("Tuple after removal: ", q)
