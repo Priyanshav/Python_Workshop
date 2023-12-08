@@ -12,9 +12,6 @@ d2.update({'c':88})
 #clear method
 # d.clear()
 # print(d)
-# print(d.keys())
-# print(d.values())
-# print(d.items())
-
-d = dict.fromkeys('a',89)
-print(d)
+print(d.keys())
+print(d.values())
+print(d.items())
